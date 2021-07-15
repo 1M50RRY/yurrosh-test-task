@@ -1,0 +1,1 @@
+export const changeTest = test => ({ type: 'TEST', payload: test });
